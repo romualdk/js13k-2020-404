@@ -1,0 +1,29 @@
+{
+  "name": "js13k-2020-404",
+  "version": "1.0.0",
+  "description": "4 mini games for 4 player",
+  "scripts": {
+    "test": "standard",
+    "start": "npx serve",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romualdk/js13k-2020-404.git"
+  },
+  "keywords": [
+    "casual",
+    "game",
+    "js13k"
+  ],
+  "author": "Romuald Kowalczyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romualdk/js13k-2020-404/issues"
+  },
+  "homepage": "https://github.com/romualdk/js13k-2020-404#readme",
+  "devDependencies": {
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
